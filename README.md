@@ -1,2 +1,3 @@
-# Lost-found-system
-A system where lost items can be reported and kept in a safe enviroment for it's owner to retrieve it 
+The Lost and Found Management System is a web-based application designed to streamline the process of reporting, tracking, and recovering lost items within a defined environment such as a university campus, workplace, or public facility. The system provides a centralized platform where users can easily submit reports for items they have lost or found, including detailed descriptions, categories, images, locations, and dates. This structured approach ensures that information is organized, searchable, and accessible to all users.
+
+The application supports multiple user roles, including anonymous visitors, registered users, and administrators. Visitors can browse and search for items, while registered users can create and manage their own reports. Administrators play a key role in maintaining system integrity by reviewing submissions, verifying claims, moderating content, and resolving disputes. Role-based access control ensures that each user has appropriate permissions, enhancing both security and usability.
